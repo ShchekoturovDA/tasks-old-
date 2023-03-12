@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c8fbcd6-d4ed-490c-b6b9-ce2bfd7d1675" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FigureUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PaintExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Fig/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/Fig.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/Drawable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/FigureUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/PaintExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fig/src/Triangle.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mv21FQLAZBt4OvnGiozj7umPXA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PaintExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PaintExample" />
+      <module name="Figure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PaintExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c8fbcd6-d4ed-490c-b6b9-ce2bfd7d1675" name="Changes" comment="" />
+      <created>1678633519334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678633519334</updated>
+    </task>
+    <servers />
+  </component>
+</project>
